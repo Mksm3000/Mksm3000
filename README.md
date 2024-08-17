@@ -14,16 +14,7 @@ automation.</h3>
 
 <h2> Languages and Tools...</h2>
 
-<img src='icons/windows8/windows8-original.svg' height="40">
-<img src='icons/ubuntu/ubuntu-original.svg' height="40">
-<img src='icons/python/python-original.svg' height="40">
-<img src='icons/pycharm/pycharm-original.svg' height="40">
-<img src='icons/replit/replit-original.svg' height="40">
-<img src='icons/git/git-original.svg' height="40">
-<img src='icons/github/github-original.svg' height="40">
-<img src='icons/aiogram/aiogram.svg' height="40">
-<img src='icons/sqlite/sqlite-original.svg' height="40">
-
+<img src='icons/windows8/windows8-original.svg' height="40"><img src='icons/ubuntu/ubuntu-original.svg' height="40"><img src='icons/python/python-original.svg' height="40"><img src='icons/pycharm/pycharm-original.svg' height="40"><img src='icons/replit/replit-original.svg' height="40"><img src='icons/git/git-original.svg' height="40"><img src='icons/github/github-original.svg' height="40"><img src='icons/aiogram/aiogram.svg' height="40"><img src='icons/sqlite/sqlite-original.svg' height="40"><img src='icons/jenkins/jenkins-original.svg' height="40"><img src='icons/markdown/markdown-original.svg' height="40"><img src='icons/postman/postman-original.svg' height="40"><img src='icons/jira/jira-original.svg' height="40">
 
 <h2> Github Stats </h2>
 
