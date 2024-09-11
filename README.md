@@ -5,7 +5,7 @@ target="_blank">Maksim</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" 
 height="40"/></h1>
 
-<h2 align="center"> I'm a student of the School of Test Automation Engineers <a 
+<h2 align="center"> I'm a graduate of the School of Test Automation Engineers <a 
 href="https://qa.guru/" target="_blank">QA.GURU</a></h2>
 <h2 align="center"> <img src="images/qa.guru.png" height="100"/> </h2>
 
@@ -14,7 +14,21 @@ automation.</h3>
 
 <h2> Languages and Tools...</h2>
 
-<img src='icons/windows8/windows8-original.svg' height="40"><img src='icons/ubuntu/ubuntu-original.svg' height="40"><img src='icons/python/python-original.svg' height="40"><img src='icons/pycharm/pycharm-original.svg' height="40"><img src='icons/replit/replit-original.svg' height="40"><img src='icons/git/git-original.svg' height="40"><img src='icons/github/github-original.svg' height="40"><img src='icons/aiogram/aiogram.svg' height="40"><img src='icons/sqlite/sqlite-original.svg' height="40"><img src='icons/jenkins/jenkins-original.svg' height="40"><img src='icons/markdown/markdown-original.svg' height="40"><img src='icons/postman/postman-original.svg' height="40"><img src='icons/jira/jira-original.svg' height="40">
+<div class="image-container">
+    <img src='icons/windows8/windows8-original.svg' height="40">
+    <img src='icons/ubuntu/ubuntu-original.svg' height="40">
+    <img src='icons/python/python-original.svg' height="40">
+    <img src='icons/pycharm/pycharm-original.svg' height="40">
+    <img src='icons/replit/replit-original.svg' height="40">
+    <img src='icons/git/git-original.svg' height="40">
+    <img src='icons/github/github-original.svg' height="40">
+    <img src='icons/aiogram/aiogram.svg' height="40">
+    <img src='icons/sqlite/sqlite-original.svg' height="40">
+    <img src='icons/jenkins/jenkins-original.svg' height="40">
+    <img src='icons/markdown/markdown-original.svg' height="40">
+    <img src='icons/postman/postman-original.svg' height="40">
+    <img src='icons/jira/jira-original.svg' height="40">
+</div>
 
 <h2> Github Stats </h2>
 
